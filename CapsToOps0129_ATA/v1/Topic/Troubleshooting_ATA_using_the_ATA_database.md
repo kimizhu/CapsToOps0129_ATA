@@ -6,7 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d89e7aff-a6ef-48a3-ae87-6ac2e39f3bdb
-ms.author: Rkarlin
+author: Rkarlin
 ---
 # Troubleshooting ATA using the ATA database
 ATA uses MongoDB as its database.

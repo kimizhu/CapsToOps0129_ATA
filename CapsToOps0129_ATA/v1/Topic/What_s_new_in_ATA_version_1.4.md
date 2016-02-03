@@ -6,7 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: cbea47f9-34c1-42b6-ae9e-6a472b49e1a5
-ms.author: Rkarlin
+author: Rkarlin
 ---
 # What&#39;s new in ATA version 1.4
 These release notes provide information about known issues in version 1.4 of  Advanced Threat Analytics.

@@ -6,7 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: b46792b9-c528-42f5-99f4-880cb14e075f
-ms.author: Rkarlin
+author: Rkarlin
 robots: noindex,nofollow
 ---
 # ATA Frequently Asked Questions

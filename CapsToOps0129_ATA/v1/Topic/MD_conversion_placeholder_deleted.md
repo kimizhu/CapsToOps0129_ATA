@@ -6,7 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 784c4632-e310-4ecc-8e24-62691236311a
-ms.author: Lizap
+author: Lizap
 ---
 # MD conversion placeholder_deleted
 <?xml version='1.0' encoding='UTF-8'?>

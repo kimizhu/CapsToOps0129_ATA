@@ -10,7 +10,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d6c783b2-46c5-4211-b21a-d6b17f08d03d
-ms.author: Rkarlin
+author: Rkarlin
 ---
 # ATA Health Center
 The ATA Health Center lets you know how your ATA service is performing and alerts you to problems.

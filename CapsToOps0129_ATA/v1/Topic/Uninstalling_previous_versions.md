@@ -6,7 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: cc1637b6-d748-4a7a-abc6-289a3dc9d33d
-ms.author: Rkarlin
+author: Rkarlin
 ---
 # Uninstalling previous versions
 Insert introduction here.

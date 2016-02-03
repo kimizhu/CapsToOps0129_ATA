@@ -5,7 +5,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.assetid: 450684a6-279e-4b48-8b09-c2ef59746a1c
-ms.author: Rkarlin
+author: Rkarlin
 ---
 # Planning
 

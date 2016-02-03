@@ -6,7 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 12bbdcc0-9ac2-4bad-8f26-06ee498351fa
-ms.author: Rkarlin
+author: Rkarlin
 robots: noindex,nofollow
 ---
 # Pre-Installation Steps

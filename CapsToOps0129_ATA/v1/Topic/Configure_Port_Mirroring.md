@@ -10,7 +10,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: cdaddca3-e26e-4137-b553-8ed3f389c460
-ms.author: Rkarlin
+author: Rkarlin
 ---
 # Configure Port Mirroring
 The ATA Gateway needs to see all the network traffic to and from each domain controller being monitored. Configure **port mirroring** for each domain controller to be monitored, as the **source** of the network traffic. Typically, you will need to work with the networking or virtualization team to configure port mirroring.

@@ -10,7 +10,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 736f9279-a047-415c-b3eb-c63ab8725ec0
-ms.author: Rkarlin
+author: Rkarlin
 ---
 # ATA database maintenance
 This topic will provide information on maintaining your ATA databases.

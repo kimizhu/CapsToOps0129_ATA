@@ -10,7 +10,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f9ab356c-4c1c-444c-b221-2451aaebc58b
-ms.author: Rkarlin
+author: Rkarlin
 ---
 # ATA Deployment Guide
 To deploy ATA, follow these steps:

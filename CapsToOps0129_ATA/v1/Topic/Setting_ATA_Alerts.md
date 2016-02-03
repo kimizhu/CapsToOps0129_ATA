@@ -10,7 +10,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 14cb7513-5dc8-49cb-b3e0-94f469c443dd
-ms.author: Rkarlin
+author: Rkarlin
 ---
 # Setting ATA Alerts
 ATA can alert you when it detects a suspicious activity, either by email or by using ATA event forwarding and forwarding the event to your SIEM/syslog server. If you enable either or both of these types of alerts, you can set the following for them.

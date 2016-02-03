@@ -6,7 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: df162a62-f273-4465-9887-94271f5000d2
-ms.author: Rkarlin
+author: Rkarlin
 ---
 # Troubleshooting ATA using the performance counters
 The ATA performance counters provide insight into how well each component of ATA is performing.

@@ -10,7 +10,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3715b69e-e631-449b-9aed-144d0f9bcee7
-ms.author: Rkarlin
+author: Rkarlin
 ---
 # Install ATA
 The following are the steps required to get ATA deployed, configured, and running.

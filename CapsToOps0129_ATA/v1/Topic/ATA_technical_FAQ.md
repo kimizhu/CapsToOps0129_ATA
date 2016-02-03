@@ -6,7 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a7d378ec-68ed-4a7b-a0db-f5e439c3e852
-ms.author: Rkarlin
+author: Rkarlin
 ---
 # ATA technical FAQ
 This article provides a list of frequently asked questions about ATA and provides insight and answers.

@@ -10,7 +10,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 50d46d67-8858-4288-9599-16715cc6e34e
-ms.author: Rkarlin
+author: Rkarlin
 ---
 # ATA Operations Guide
 The Advanced Threat Analytics Operations Guide provides you with information to help you set up ATA so that you can fine tune threat detecting and analytics in real time.

@@ -6,7 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: b8ad5511-8893-4d1d-81ee-b9a86e378347
-ms.author: Rkarlin
+author: Rkarlin
 ---
 # Troubleshooting ATA using the ATA logs
 The ATA logs provide insight into what each component of ATA is doing at any giving point in time.

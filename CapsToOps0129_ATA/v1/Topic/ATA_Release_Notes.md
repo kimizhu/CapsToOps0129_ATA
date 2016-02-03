@@ -10,7 +10,7 @@ ms.technology:
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 606ab8db-3c42-4d99-90dc-c54a76f52d13
-ms.author: Rkarlin
+author: Rkarlin
 ---
 # ATA Release Notes
 Release notes are available for the following ATA versions:

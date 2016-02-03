@@ -6,7 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f128828d-ce20-472f-8b3e-0f667363add6
-ms.author: Rkarlin
+author: Rkarlin
 ---
 # test
 <?xml version='1.0' encoding='UTF-8'?>

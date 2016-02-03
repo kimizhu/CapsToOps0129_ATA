@@ -6,7 +6,7 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fb65eb41-b215-4530-93a2-0b8991f4e980
-ms.author: Rkarlin
+author: Rkarlin
 ---
 # ATA update to 1.5 migration guide
 The update to ATA 1.5 provides improvements in the following areas:
