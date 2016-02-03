@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Pre-Installation Steps
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 12bbdcc0-9ac2-4bad-8f26-06ee498351fa
-ms.author: rkarlin@microsoft.com
+ms.author: Rkarlin
 robots: noindex,nofollow
 ---
 # Pre-Installation Steps

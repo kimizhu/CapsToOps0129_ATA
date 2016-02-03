@@ -1,18 +1,16 @@
 ---
-description: na
-keywords: na
 title: Working with the ATA Console
-search: na
 ms.custom: 
   - ATA
-ms.date: na
 ms.prod: identity-ata
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1bf264d9-9697-44b5-9533-e1c498da4f07
-ms.author: rkarlin@microsoft.com
+ms.author: Rkarlin
 ---
 # Working with the ATA Console
 This section describes the ATA Console.

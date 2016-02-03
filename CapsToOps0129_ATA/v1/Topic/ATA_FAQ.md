@@ -1,18 +1,16 @@
 ---
-description: na
-keywords: na
 title: ATA FAQ
-search: na
 ms.custom: 
   - ATA
-ms.date: na
 ms.prod: identity-ata
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e1954834-ff49-4ac1-b78c-06693569abff
-ms.author: rkarlin@microsoft.com
+ms.author: Rkarlin
 robots: noindex,nofollow
 ---
 # ATA FAQ

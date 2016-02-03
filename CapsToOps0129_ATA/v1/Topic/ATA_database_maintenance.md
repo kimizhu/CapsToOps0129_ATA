@@ -1,18 +1,16 @@
 ---
-description: na
-keywords: na
 title: ATA database maintenance
-search: na
 ms.custom: 
   - ATA
-ms.date: na
 ms.prod: identity-ata
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 736f9279-a047-415c-b3eb-c63ab8725ec0
-ms.author: rkarlin@microsoft.com
+ms.author: Rkarlin
 ---
 # ATA database maintenance
 This topic will provide information on maintaining your ATA databases.

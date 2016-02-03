@@ -1,18 +1,16 @@
 ---
-description: na
-keywords: na
 title: ATA Capacity Planning
-search: na
 ms.custom: 
   - ATA
-ms.date: na
 ms.prod: identity-ata
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 279d79f2-962c-4c6f-9702-29744a5d50e2
-ms.author: rkarlin@microsoft.com
+ms.author: Rkarlin
 ---
 # ATA Capacity Planning
 This topic helps you determine how many ATA servers will be needed to support your network.

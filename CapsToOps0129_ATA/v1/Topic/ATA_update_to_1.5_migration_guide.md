@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: ATA update to 1.5 migration guide
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fb65eb41-b215-4530-93a2-0b8991f4e980
-ms.author: rkarlin@microsoft.com
+ms.author: Rkarlin
 ---
 # ATA update to 1.5 migration guide
 The update to ATA 1.5 provides improvements in the following areas:

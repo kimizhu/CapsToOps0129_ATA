@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Markdown trial_deleted
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 33c617f8-6c26-406b-8308-1277a7696ad6
-ms.author: rkarlin@microsoft.com
+ms.author: Rkarlin
 ---
 # Markdown trial_deleted
 Welcome to CAPS Markdown Editor!

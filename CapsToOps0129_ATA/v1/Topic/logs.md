@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: logs
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 9cea216b-1c18-49bd-b9b6-d4a5933c056b
-ms.author: rkarlin@microsoft.com
+ms.author: Rkarlin
 robots: noindex,nofollow
 ---
 # logs

@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Uninstalling previous versions
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: cc1637b6-d748-4a7a-abc6-289a3dc9d33d
-ms.author: rkarlin@microsoft.com
+ms.author: Rkarlin
 ---
 # Uninstalling previous versions
 Insert introduction here.

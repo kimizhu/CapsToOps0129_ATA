@@ -1,14 +1,13 @@
 ---
-description: na
-keywords: na
 title: Manage Telemetry Settings
-search: na
-ms.date: na
+ms.custom: na
 ms.prod: identity-ata
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8c1c7a1b-a3de-4105-9fd0-08a061952172
-ms.author: rkarlin@microsoft.com
+ms.author: Rkarlin
 ---
 # Manage Telemetry Settings
 Advanced Threat Analytics (ATA) collects anonymous telemetry data about ATA and transmits the data over an HTTPS connection to Microsoft servers.  This data is used by Microsoft to help improve future versions of ATA.

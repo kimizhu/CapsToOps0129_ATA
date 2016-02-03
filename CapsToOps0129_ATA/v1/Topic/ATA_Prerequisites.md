@@ -1,18 +1,16 @@
 ---
-description: na
-keywords: na
 title: ATA Prerequisites
-search: na
 ms.custom: 
   - ATA
-ms.date: na
 ms.prod: identity-ata
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a5f90544-1c70-4aff-8bf3-c59dd7abd687
-ms.author: rkarlin@microsoft.com
+ms.author: Rkarlin
 ---
 # ATA Prerequisites
 This article describes the requirements for a successful deployment of ATA in your environment.

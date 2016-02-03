@@ -1,18 +1,16 @@
 ---
-description: na
-keywords: na
 title: ATA Deployment Guide
-search: na
 ms.custom: 
   - ATA
-ms.date: na
 ms.prod: identity-ata
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f9ab356c-4c1c-444c-b221-2451aaebc58b
-ms.author: rkarlin@microsoft.com
+ms.author: Rkarlin
 ---
 # ATA Deployment Guide
 To deploy ATA, follow these steps:

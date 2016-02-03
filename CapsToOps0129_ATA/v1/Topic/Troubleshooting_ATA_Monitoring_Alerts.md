@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Troubleshooting ATA Monitoring Alerts
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 51bedf1f-b267-4e68-b12c-2d43db17e82d
-ms.author: rkarlin@microsoft.com
+ms.author: Rkarlin
 robots: noindex,nofollow
 ---
 # Troubleshooting ATA Monitoring Alerts

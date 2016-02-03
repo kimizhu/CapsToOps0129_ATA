@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: ATA Pre-Installation Steps
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 559cf8c9-8511-42ad-b950-8c95c152f240
-ms.author: rkarlin@microsoft.com
+ms.author: Rkarlin
 ---
 # ATA Pre-Installation Steps
 This section provides information about preinstallation steps that you should take before installing ATA.

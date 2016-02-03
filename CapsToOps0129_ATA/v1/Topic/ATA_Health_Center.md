@@ -1,18 +1,16 @@
 ---
-description: na
-keywords: na
 title: ATA Health Center
-search: na
 ms.custom: 
   - ATA
-ms.date: na
 ms.prod: identity-ata
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: d6c783b2-46c5-4211-b21a-d6b17f08d03d
-ms.author: rkarlin@microsoft.com
+ms.author: Rkarlin
 ---
 # ATA Health Center
 The ATA Health Center lets you know how your ATA service is performing and alerts you to problems.

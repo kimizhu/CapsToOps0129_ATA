@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: What&#39;s new in ATA version 1.5
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a0d64aff-ca9e-4300-b3f8-eb3c8b8ae045
-ms.author: rkarlin@microsoft.com
+ms.author: Rkarlin
 ---
 # What&#39;s new in ATA version 1.5
 These release notes provide information about known issues in this version of  Advanced Threat Analytics.

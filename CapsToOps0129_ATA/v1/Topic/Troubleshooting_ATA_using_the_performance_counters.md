@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Troubleshooting ATA using the performance counters
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: df162a62-f273-4465-9887-94271f5000d2
-ms.author: rkarlin@microsoft.com
+ms.author: Rkarlin
 ---
 # Troubleshooting ATA using the performance counters
 The ATA performance counters provide insight into how well each component of ATA is performing.

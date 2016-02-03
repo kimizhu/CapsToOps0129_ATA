@@ -1,18 +1,16 @@
 ---
-description: na
-keywords: na
 title: Microsoft Advanced Threat Analytics
-search: na
 ms.custom: 
   - ATA
-ms.date: na
 ms.prod: identity-ata
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: a315cf03-c5a3-4ecb-a0f8-4d3e322e6ad1
-ms.author: rkarlin@microsoft.com
+ms.author: Rkarlin
 ---
 # Microsoft Advanced Threat Analytics
 This article provides an introduction to Microsoft Advanced Threat Analytics (ATA).

@@ -1,18 +1,16 @@
 ---
-description: na
-keywords: na
 title: ATA Release Notes
-search: na
 ms.custom: 
   - ATA
-ms.date: na
 ms.prod: identity-ata
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 606ab8db-3c42-4d99-90dc-c54a76f52d13
-ms.author: rkarlin@microsoft.com
+ms.author: Rkarlin
 ---
 # ATA Release Notes
 Release notes are available for the following ATA versions:

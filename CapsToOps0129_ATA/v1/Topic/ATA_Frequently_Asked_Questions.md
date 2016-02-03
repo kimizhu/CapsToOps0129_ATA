@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: ATA Frequently Asked Questions
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: b46792b9-c528-42f5-99f4-880cb14e075f
-ms.author: rkarlin@microsoft.com
+ms.author: Rkarlin
 robots: noindex,nofollow
 ---
 # ATA Frequently Asked Questions

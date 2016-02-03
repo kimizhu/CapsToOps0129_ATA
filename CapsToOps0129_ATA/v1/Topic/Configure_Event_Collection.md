@@ -1,18 +1,16 @@
 ---
-description: na
-keywords: na
 title: Configure Event Collection
-search: na
 ms.custom: 
   - ATA
-ms.date: na
 ms.prod: identity-ata
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 3f0498f9-061d-40e6-ae07-98b8dcad9b20
-ms.author: rkarlin@microsoft.com
+ms.author: Rkarlin
 ---
 # Configure Event Collection
 To enhance ATA detection of Pass-the-Hash, ATA needs Windows Event log ID 4776. This can be forwarded to the ATA Gateway in one of two ways, by configuring the ATA Gateway to listen for SIEM events or by [Configuring Windows Event Forwarding](#ATA_event_WEF).
@@ -151,15 +149,49 @@ Error Code:         0x0
 ## <a name="ATA_event_WEF"></a>Configuring Windows Event Forwarding
 If you do not have a SIEM server you can configure your domain controllers to forward Windows Event ID 4776 directly to one of your ATA Gateways.
 
-1.  On the ATA Gateway configuration, enable **Windows Event Forwarding Collection**.
+1.  Log on to all domain controllers and ATA Gateway machines using a domain account with administrator privileges. 
+2. Make sure all the domain controllers and ATA Gateways you are connecting are joined to the same domain.
+3.	On each domain controller, type the following at an elevated command prompt:
+
+```
+winrm quickconfig
+```
+
+4.	On the ATA Gateway, type the following at an elevated command prompt:
+
+```
+wecutil qc
+```
+
+5.	On each domain controller, in **Active Directory Users and Computers**, navigate to the **Builtin** folder and double click on the **Event Log Readers** group. 
+![wef_ad_eventlogreaders](/Image/wef_ad_eventlogreaders.png)
+Right click on it and select **Properties**. On the **Members** tab, add the computer account of each ATA Gateway. 
+![wef_ad event log reader popup](/Image/wef_ad_event_log_reader_popup.png)
+6.	On the ATA Gateway, open the Event Viewer and right click on **Subscriptions** and select **Create Subscription**.  
+
+    a.	Under **Subscription type and source computers**, click **Select Computers** and add the domain controllers and test connectivity.
+    ![wef_subscription prop](/Image/wef_subscription_prop.png)
+    
+    b.	Under **Events to collect**, click **Select Events**. Select **By log** and scroll down to select **Security**. Then, In the **Includes/Excludes Event IDs**, type **4776**.
+    ![wef_4776](/Image/wef_4776.png)
+    
+    c. Under **Change user account or configure advanced settings**, click **Advanced**. 
+        Set the **Protocol** to **HTTP** and the **Port** to **5985**.
+    ![wef_http](/Image/wef_http.png)
+    
+ 7.	[Optional] If you want a shorter poling interval, on the ATA Gateway, set the subscription heartbeat to 5 seconds for faster polling rate.
+
+```
+wecutil ss <CollectionName>/cm:custom
+wecutil ss <CollectionName> /hi:5000
+```
+
+8. On the ATA Gateway configuration page, enable **Windows Event Forwarding Collection**.
 
     > [!NOTE]
     > When you enable this setting the ATA Gateway will look in the Forwarded Events log for Windows Events that have been forwarded to it from the domain controllers.
-
-    -   [Configure the computers to forward and collect events](https://technet.microsoft.com/en-us/library/cc748890).
-
-2.  Configure your domain controllers to forward Windows Event ID 4776 to the ATA Gateways. For additional information on Windows Event Forwarding, see [Configure Computers to Forward and Collect Events](https://technet.microsoft.com/en-us/library/cc748890).
-
+For more information see: [Configure the computers to forward and collect events](https://technet.microsoft.com/en-us/library/cc748890)
+   
 ## See Also
 [Install ATA](../Topic/Install_ATA.md)
  [For support, check out our forum!](https://social.technet.microsoft.com/Forums/security/en-US/home?forum=mata)
